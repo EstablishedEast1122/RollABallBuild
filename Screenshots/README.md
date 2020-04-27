@@ -1,3 +1,3 @@
-Below are some helful screenshots that will help you opne the game
+Below are some helpful screenshots that will help you open the game
 
-[1](https://github.com/EstablishedEast1122/RollABallBuild/blob/master/Screenshots/ScreenShot.png)
+[Click here yo find the security settings on a macbook](https://github.com/EstablishedEast1122/RollABallBuild/blob/master/Screenshots/ScreenShot.png)
